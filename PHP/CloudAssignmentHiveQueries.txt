@@ -1,0 +1,84 @@
+﻿Run queries: 
+
+
+Best 100 movies: 
+select m_title, avg(rating) as avg_rating from rating_full group by m_title order by avg_rating desc limit 10;
+
+
+Top 10 movies by genre (Comedy, Action, Thriller etc.):
+Create table genre_rank as
+Select m_genres, m_title, rank() over (partition by m_genres order by rating desc) as rank, rating
+from
+(Select m_genres, m_title, sum(rating) rating 
+from rating_full 
+Group by m_genres, m_title
+Order by rating desc) a;
+
+
+select * from genre_rank where rank < 11;
+
+
+Number of 5* votes by gender:
+select u_gender, count(*) from rating_full where rating = 5 group by u_gender;
+
+
+Number of 5* votes by occupation:
+select u_occupation, count(*) from rating_full where rating = 5 group by u_occupation;
+
+
+Number of 5* votes by age:
+select u_age, count(*) from rating_full where rating = 5 group by u_age;
+
+
+Best movies based on gender
+
+
+select m_title, sum(rating) rating from rating_full where u_gender = 'M' group by m_title order by rating desc limit 10;
+
+
+select m_title, sum(rating) rating from rating_full where u_gender = 'F' group by m_title order by rating desc limit 10;
+
+
+Best movies based on age
+Create table age_rank as
+Select u_occupation, m_title, rank() over (partition by u_occupation order by rating desc) as rank, rating
+from
+(Select u_occupation, m_title, sum(rating) rating 
+from rating_full 
+Group by u_occupation, m_title
+Order by rating desc) a;
+
+
+
+
+
+
+select * from age_rank where rank < 11;
+
+
+Best movies based on occupation
+
+
+Create table occupation_rank as
+Select u_occupation, m_title, rank() over (partition by u_occupation order by rating desc) as rank, rating
+from
+(Select u_occupation, m_title, sum(rating) rating 
+from rating_full 
+Group by u_occupation, m_title
+Order by rating desc) a;
+
+
+select * from occupation_rank where rank < 11;
+
+
+Analysis on user’s occupation:
+select u_occupation, count(u_occupation) from rating_full group by u_occupation;
+
+
+Analysis on user’s age: 
+select u_age, count(u_age) from rating_full group by u_age;
+
+
+Storing output from Hive into Local FS:
+INSERT OVERWRITE LOCAL DIRECTORY '/home/ca675/Documents/…
+Select ...

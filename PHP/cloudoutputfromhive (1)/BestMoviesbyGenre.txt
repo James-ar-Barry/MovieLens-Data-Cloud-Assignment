@@ -1,0 +1,1104 @@
+8230;Crï¿½a la Femme) (1956),And God Created Woman (Et Dieu&,1,95
+Action,Goldfinger (1964),1,3562
+Action,From Russia with Love (1963),2,2999
+Action,Shanghai Noon (2000),3,2891
+Action,Dr. No (1962),4,2503
+Action,Spy Who Loved Me, The (1977),5,1756
+Action,Man with the Golden Gun, The (1974),6,1673
+Action,Live and Let Die (1973),7,1516
+Action,Under Siege (1992),8,1507
+Action,Thunderball (1965),9,1497
+Action,For Your Eyes Only (1981),10,1488
+Action|Adventure,Raiders of the Lost Ark (1981),1,11257
+Action|Adventure,Indiana Jones and the Last Crusade (1989),2,6729
+Action|Adventure,Indiana Jones and the Temple of Doom (1984),3,4143
+Action|Adventure,Highlander (1986),4,2850
+Action|Adventure,Poseidon Adventure, The (1972),5,2149
+Action|Adventure,Conan the Barbarian (1982),6,1957
+Action|Adventure,Waterworld (1995),7,1713
+Action|Adventure,Adventures of Robin Hood, The (1938),8,1502
+Action|Adventure,Ghost and the Darkness, The (1996),9,1501
+Action|Adventure,Mortal Kombat (1995),10,867
+Action|Adventure|Animation,Princess Mononoke, The (Mononoke Hime) (1997),1,1431
+Action|Adventure|Animation|Children's|Fantasy,Pagemaster, The (1994),1,365
+Action|Adventure|Animation|Horror|Sci-Fi,Heavy Metal (1981),1,2192
+Action|Adventure|Children's,Turbo: A Power Rangers Movie (1997),1,58
+Action|Adventure|Children's|Comedy,Inspector Gadget (1999),1,808
+Action|Adventure|Children's|Comedy,Condorman (1981),2,387
+Action|Adventure|Children's|Fantasy,Warriors of Virtue (1997),1,92
+Action|Adventure|Children's|Sci-Fi,Super Mario Bros. (1993),1,656
+Action|Adventure|Comedy,Mystery Men (1999),1,2568
+Action|Adventure|Comedy,Three Musketeers, The (1993),2,1714
+Action|Adventure|Comedy,Golden Child, The (1986),3,1330
+Action|Adventure|Comedy,Operation Condor (Feiying gaiwak) (1990),4,568
+Action|Adventure|Comedy,Operation Condor 2 (Longxiong hudi) (1990),5,249
+Action|Adventure|Comedy|Crime,Batman Returns (1992),1,3069
+Action|Adventure|Comedy|Crime,Midnight Run (1988),2,2950
+Action|Adventure|Comedy|Crime,Batman Forever (1995),3,2053
+Action|Adventure|Comedy|Horror,Evil Dead II (Dead By Dawn) (1987),1,2097
+Action|Adventure|Comedy|Horror|Sci-Fi,Army of Darkness (1993),1,3595
+Action|Adventure|Comedy|Romance,Princess Bride, The (1987),1,9976
+Action|Adventure|Comedy|Romance,True Lies (1994),2,5088
+Action|Adventure|Comedy|Romance,Romancing the Stone (1984),3,4962
+Action|Adventure|Comedy|Romance,Jewel of the Nile, The (1985),4,2129
+Action|Adventure|Comedy|Sci-Fi,Men in Black (1997),1,9492
+Action|Adventure|Comedy|War,Operation Dumbo Drop (1995),1,485
+Action|Adventure|Crime,Cliffhanger (1993),1,2116
+Action|Adventure|Crime,Rumble in the Bronx (1995),2,1963
+Action|Adventure|Crime,Batman & Robin (1997),3,1368
+Action|Adventure|Crime|Drama,Batman (1989),1,5153
+Action|Adventure|Crime|Thriller,Hard Target (1993),1,601
+Action|Adventure|Drama,Ben-Hur (1959),1,2894
+Action|Adventure|Drama,Karate Kid, Part II, The (1986),2,1277
+Action|Adventure|Drama,Karate Kid III, The (1989),3,607
+Action|Adventure|Drama,Emerald Forest, The (1985),4,499
+Action|Adventure|Drama,Knightriders (1981),5,95
+Action|Adventure|Drama|Romance,First Knight (1995),1,1068
+Action|Adventure|Drama|Sci-Fi|War,Star Wars: Episode V - The Empire Strikes Back (1980),1,12836
+Action|Adventure|Drama|Thriller,Runaway Train (1985),1,688
+Action|Adventure|Fantasy,Willow (1988),1,2804
+Action|Adventure|Fantasy,Dragonheart (1996),2,1974
+Action|Adventure|Fantasy,7th Voyage of Sinbad, The (1958),3,933
+Action|Adventure|Fantasy,Supergirl (1984),4,368
+Action|Adventure|Fantasy,Highlander: Endgame (2000),5,326
+Action|Adventure|Fantasy|Sci-Fi,Star Wars: Episode IV - A New Hope (1977),1,13321
+Action|Adventure|Fantasy|Sci-Fi,Star Wars: Episode I - The Phantom Menace (1999),2,7672
+Action|Adventure|Fantasy|Sci-Fi,Tron (1982),3,3255
+Action|Adventure|Horror,Blade (1998),1,2813
+Action|Adventure|Horror,King Kong (1933),2,2764
+Action|Adventure|Horror,King Kong (1976),3,852
+Action|Adventure|Horror,King Kong Lives (1986),4,98
+Action|Adventure|Horror|Thriller,Mummy, The (1999),1,3345
+Action|Adventure|Mystery,Mission: Impossible (1996),1,5242
+Action|Adventure|Mystery,Young Sherlock Holmes (1985),2,1285
+Action|Adventure|Mystery|Sci-Fi,Congo (1995),1,1265
+Action|Adventure|Romance,Mask of Zorro, The (1998),1,3501
+Action|Adventure|Romance,Cutthroat Island (1995),2,359
+Action|Adventure|Romance|Sci-Fi|War,Star Wars: Episode VI - Return of the Jedi (1983),1,11598
+Action|Adventure|Romance|Thriller,Twister (1996),1,3523
+Action|Adventure|Romance|Thriller,Bird on a Wire (1990),2,982
+Action|Adventure|Romance|War,African Queen, The (1951),1,4494
+Action|Adventure|Sci-Fi,Jurassic Park (1993),1,10057
+Action|Adventure|Sci-Fi,Star Trek: The Wrath of Khan (1982),2,5619
+Action|Adventure|Sci-Fi,Star Trek: First Contact (1996),3,4859
+Action|Adventure|Sci-Fi,Superman (1978),4,4322
+Action|Adventure|Sci-Fi,Star Trek IV: The Voyage Home (1986),5,4117
+Action|Adventure|Sci-Fi,Stargate (1994),6,3895
+Action|Adventure|Sci-Fi,Star Trek VI: The Undiscovered Country (1991),7,3413
+Action|Adventure|Sci-Fi,Star Trek: Generations (1994),8,3343
+Action|Adventure|Sci-Fi,Star Trek III: The Search for Spock (1984),9,3109
+Action|Adventure|Sci-Fi,Superman II (1980),10,2677
+Action|Adventure|Sci-Fi|Thriller,Total Recall (1990),1,7350
+Action|Adventure|Sci-Fi|Thriller,Abyss, The (1989),2,6318
+Action|Adventure|Sci-Fi|Thriller,Lost World: Jurassic Park, The (1997),3,3811
+Action|Adventure|Sci-Fi|Thriller,Armageddon (1998),4,3543
+Action|Adventure|Sci-Fi|Thriller,Escape from New York (1981),5,3063
+Action|Adventure|Sci-Fi|Thriller,Escape from L.A. (1996),6,1283
+Action|Adventure|Sci-Fi|Thriller,Spawn (1997),7,1245
+Action|Adventure|Sci-Fi|Thriller|War,Soldier (1998),1,850
+Action|Adventure|Sci-Fi|War,Starship Troopers (1997),1,3644
+Action|Adventure|Thriller,Rock, The (1996),1,4989
+Action|Adventure|Thriller,Clear and Present Danger (1994),2,3946
+Action|Adventure|Thriller,Perfect Storm, The (2000),3,3395
+Action|Adventure|Thriller,GoldenEye (1995),4,3144
+Action|Adventure|Thriller,Con Air (1997),5,3116
+Action|Adventure|Thriller,Anaconda (1997),6,878
+Action|Adventure|Thriller,Chain Reaction (1996),7,629
+Action|Adventure|Thriller,Daylight (1996),8,552
+Action|Adventure|Thriller,Surviving the Game (1994),9,357
+Action|Adventure|Thriller,Firestorm (1998),10,206
+Action|Adventure|War,Where Eagles Dare (1969),1,1010
+Action|Adventure|War,Captain Horatio Hornblower (1951),2,394
+Action|Adventure|Western,Quick and the Dead, The (1995),1,1244
+Action|Animation|Children's|Sci-Fi|Thriller|War,Transformers: The Movie, The (1986),1,781
+Action|Children's,Next Karate Kid, The (1994),1,300
+Action|Children's,Mighty Morphin Power Rangers: The Movie (1995),2,150
+Action|Children's,3 Ninjas: High Noon On Mega Mountain (1998),3,64
+Action|Children's|Fantasy,Teenage Mutant Ninja Turtles (1990),1,1430
+Action|Children's|Fantasy,Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991),2,534
+Action|Children's|Fantasy,Teenage Mutant Ninja Turtles III (1993),3,361
+Action|Comedy,Big Trouble in Little China (1986),1,1994
+Action|Comedy,Last Action Hero (1993),2,1254
+Action|Comedy,Beverly Hills Cop III (1994),3,882
+Action|Comedy,Running Scared (1986),4,876
+Action|Comedy,Air America (1990),5,843
+Action|Comedy,Loaded Weapon 1 (1993),6,729
+Action|Comedy,Beverly Hills Ninja (1997),7,591
+Action|Comedy,Big Hit, The (1998),8,584
+Action|Comedy,Mr. Nice Guy (1997),9,562
+Action|Comedy,Drunken Master (Zui quan) (1979),10,520
+Action|Comedy|Crime,I Went Down (1997),1,154
+Action|Comedy|Crime|Drama,Lethal Weapon (1987),1,6324
+Action|Comedy|Crime|Drama,Lethal Weapon 2 (1989),2,3584
+Action|Comedy|Crime|Drama,Lethal Weapon 3 (1992),3,2610
+Action|Comedy|Crime|Drama,Lethal Weapon 4 (1998),4,2101
+Action|Comedy|Crime|Drama,Man Bites Dog (C'est arrivé près de chez vous) (1992),5,563
+Action|Comedy|Crime|Drama,Best Men (1997),6,113
+Action|Comedy|Crime|Drama,Montana (1998),7,15
+Action|Comedy|Crime|Horror|Thriller,From Dusk Till Dawn (1996),1,2885
+Action|Comedy|Drama,Get Shorty (1995),1,4914
+Action|Comedy|Drama,Buffalo 66 (1998),2,1241
+Action|Comedy|Drama,Faster Pussycat! Kill! Kill! (1965),3,209
+Action|Comedy|Fantasy,Toys (1992),1,1128
+Action|Comedy|Musical,Blues Brothers, The (1980),1,5283
+Action|Comedy|Musical,Blues Brothers 2000 (1998),2,559
+Action|Comedy|Musical|Sci-Fi,Tank Girl (1995),1,936
+Action|Comedy|Romance|Thriller,Jumpin' Jack Flash (1986),1,1036
+Action|Comedy|Sci-Fi|Thriller,Arachnophobia (1990),1,4105
+Action|Comedy|Sci-Fi|War,Mars Attacks! (1996),1,3115
+Action|Comedy|War,Hot Shots! Part Deux (1993),1,1602
+Action|Comedy|War,Kelly's Heroes (1970),2,1466
+Action|Comedy|Western,Butch Cassidy and the Sundance Kid (1969),1,5982
+Action|Comedy|Western,Maverick (1994),2,2826
+Action|Comedy|Western,Young Guns (1988),3,1921
+Action|Comedy|Western,Young Guns II (1990),4,1073
+Action|Crime,Gone in 60 Seconds (2000),1,1737
+Action|Crime,Dick Tracy (1990),2,1674
+Action|Crime,Shaft (2000),3,1365
+Action|Crime,Hard-Boiled (Lashou shentan) (1992),4,1353
+Action|Crime,Shaft (1971),5,758
+Action|Crime,King of New York (1990),6,610
+Action|Crime,Mod Squad, The (1999),7,451
+Action|Crime,Set It Off (1996),8,280
+Action|Crime,Fatal Beauty (1987),9,159
+Action|Crime,Wisdom (1986),10,137
+Action|Crime|Drama,Godfather, The (1972),1,10059
+Action|Crime|Drama,Godfather: Part II, The (1974),2,7373
+Action|Crime|Drama,Untouchables, The (1987),3,4517
+Action|Crime|Drama,Godfather: Part III, The (1990),4,2589
+Action|Crime|Drama,Limey, The (1999),5,1744
+Action|Crime|Drama,Menace II Society (1993),6,1075
+Action|Crime|Drama,Dead Presidents (1995),7,634
+Action|Crime|Drama|Thriller,French Connection, The (1971),1,3529
+Action|Crime|Drama|Thriller,Corruptor, The (1999),2,473
+Action|Crime|Mystery,U Turn (1997),1,769
+Action|Crime|Mystery|Thriller,Snake Eyes (1998),1,1359
+Action|Crime|Romance,Run Lola Run (Lola rennt) (1998),1,4529
+Action|Crime|Romance,Out of Sight (1998),2,3448
+Action|Crime|Romance,True Romance (1993),3,2585
+Action|Crime|Romance,Truth or Consequences, N.M. (1997),4,150
+Action|Crime|Sci-Fi,Robocop (1987),1,4242
+Action|Crime|Sci-Fi,Strange Days (1995),2,1994
+Action|Crime|Sci-Fi,Robocop 2 (1990),3,1174
+Action|Crime|Thriller,Heat (1995),1,3646
+Action|Crime|Thriller,Ronin (1998),2,2843
+Action|Crime|Thriller,F/X (1986),3,2503
+Action|Crime|Thriller,Hackers (1995),4,1010
+Action|Crime|Thriller,F/X 2 (1992),5,647
+Action|Crime|Thriller,Someone to Watch Over Me (1987),6,442
+Action|Drama,Gladiator (2000),1,7900
+Action|Drama,Thelma & Louise (1991),2,5215
+Action|Drama,Rocky (1976),3,4452
+Action|Drama,Backdraft (1991),4,2990
+Action|Drama,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),5,2864
+Action|Drama,Falling Down (1993),6,1809
+Action|Drama,Rocky II (1979),7,1414
+Action|Drama,Rocky III (1982),8,1153
+Action|Drama,Perfect World, A (1993),9,1085
+Action|Drama,Rocky IV (1985),10,992
+Action|Drama|Fantasy|Romance,Excalibur (1981),1,2829
+Action|Drama|Mystery,Rising Sun (1993),1,1213
+Action|Drama|Mystery|Romance|Thriller,Diva (1981),1,1042
+Action|Drama|Romance,Cyrano de Bergerac (1990),1,1410
+Action|Drama|Romance,Man in the Iron Mask, The (1998),2,1190
+Action|Drama|Romance|Thriller,Bodyguard, The (1992),1,1790
+Action|Drama|Romance|Thriller,Breathless (1983),2,357
+Action|Drama|Sci-Fi|Thriller,Deep Impact (1998),1,2834
+Action|Drama|Thriller,Outbreak (1995),1,2396
+Action|Drama|Thriller,Smilla's Sense of Snow (1997),2,869
+Action|Drama|Thriller,Mercury Rising (1998),3,793
+Action|Drama|Thriller,Get Carter (2000),4,226
+Action|Drama|Thriller,Fire Down Below (1997),5,204
+Action|Drama|Thriller,Born American (1986),6,19
+Action|Drama|Thriller,Condition Red (1995),7,4
+Action|Drama|Thriller,Tough and Deadly (1995),7,4
+Action|Drama|Thriller|War,Devil's Own, The (1997),1,823
+Action|Drama|War,Saving Private Ryan (1998),1,11507
+Action|Drama|War,Braveheart (1995),2,10346
+Action|Drama|War,Full Metal Jacket (1987),3,5155
+Action|Drama|War,Glory (1989),4,4663
+Action|Drama|War,Patriot, The (2000),5,4644
+Action|Drama|War,Boat, The (Das Boot) (1981),6,4307
+Action|Drama|War,Thin Red Line, The (1998),7,2729
+Action|Drama|War,Guns of Navarone, The (1961),8,1990
+Action|Drama|War,G.I. Jane (1997),9,1700
+Action|Drama|War,Longest Day, The (1962),10,1398
+Action|Drama|Western,Last Man Standing (1996),1,744
+Action|Horror,Jaws (1975),1,6940
+Action|Horror,Jaws 2 (1978),2,958
+Action|Horror,Jaws 3-D (1983),3,389
+Action|Horror,Blood Beach (1981),4,36
+Action|Horror,Crow: Salvation, The (2000),5,25
+Action|Horror|Sci-Fi,Alien: Resurrection (1997),1,2305
+Action|Horror|Sci-Fi,Hidden, The (1987),2,1046
+Action|Horror|Sci-Fi,Night of the Comet (1984),3,870
+Action|Horror|Sci-Fi,Deep Rising (1998),4,621
+Action|Horror|Sci-Fi,Hellraiser: Bloodline (1996),5,534
+Action|Horror|Sci-Fi,Alligator (1980),6,342
+Action|Horror|Sci-Fi,Chopping Mall (a.k.a. Killbots) (1986),7,85
+Action|Horror|Sci-Fi|Thriller,Alien (1979),1,8419
+Action|Horror|Sci-Fi|Thriller,Alien³ (1992),2,2810
+Action|Horror|Sci-Fi|Thriller,Thing, The (1982),3,2805
+Action|Horror|Thriller,13th Warrior, The (1999),1,2369
+Action|Mystery|Romance|Thriller,Conspiracy Theory (1997),1,2762
+Action|Mystery|Sci-Fi|Thriller,Event Horizon (1997),1,1254
+Action|Mystery|Thriller,Fallen (1998),1,1314
+Action|Mystery|Thriller,52 Pick-Up (1986),2,462
+Action|Mystery|Thriller,Power 98 (1995),3,12
+Action|Romance,Top Gun (1986),1,3723
+Action|Romance,Days of Thunder (1990),2,1179
+Action|Romance,Romeo Must Die (2000),3,1040
+Action|Romance|Sci-Fi,Moonraker (1979),1,2081
+Action|Romance|Thriller,Speed (1994),1,5883
+Action|Romance|Thriller,Tomorrow Never Dies (1997),2,2967
+Action|Romance|Thriller,Crow, The (1994),3,2529
+Action|Romance|Thriller,Desperado (1995),4,1867
+Action|Romance|Thriller,Saint, The (1997),5,1800
+Action|Romance|Thriller,Tequila Sunrise (1988),6,945
+Action|Romance|Thriller,Speed 2: Cruise Control (1997),7,687
+Action|Romance|War,Last of the Mohicans, The (1992),1,3718
+Action|Sci-Fi,X-Men (2000),1,5773
+Action|Sci-Fi,Fifth Element, The (1997),2,5013
+Action|Sci-Fi,Planet of the Apes (1968),3,4314
+Action|Sci-Fi,Mad Max (1979),4,3906
+Action|Sci-Fi,Mad Max 2 (a.k.a. The Road Warrior) (1981),5,3799
+Action|Sci-Fi,Star Trek: Insurrection (1998),6,2702
+Action|Sci-Fi,Mad Max Beyond Thunderdome (1985),7,2286
+Action|Sci-Fi,Demolition Man (1993),8,1915
+Action|Sci-Fi,Pitch Black (2000),9,1789
+Action|Sci-Fi,Space Cowboys (2000),10,1617
+Action|Sci-Fi|Thriller,Matrix, The (1999),1,11178
+Action|Sci-Fi|Thriller,Terminator 2: Judgment Day (1991),2,10751
+Action|Sci-Fi|Thriller,Terminator, The (1984),3,8711
+Action|Sci-Fi|Thriller,Face/Off (1997),4,4833
+Action|Sci-Fi|Thriller,Predator (1987),5,4739
+Action|Sci-Fi|Thriller,Predator 2 (1990),6,1844
+Action|Sci-Fi|Thriller,Lost in Space (1998),7,1724
+Action|Sci-Fi|Thriller,Deep Blue Sea (1999),8,1718
+Action|Sci-Fi|Thriller,Lawnmower Man, The (1992),9,1636
+Action|Sci-Fi|Thriller,eXistenZ (1999),10,1335
+Action|Sci-Fi|Thriller|War,Aliens (1986),1,7509
+Action|Sci-Fi|Thriller|Western,Westworld (1973),1,2176
+Action|Sci-Fi|War,Independence Day (ID4) (1996),1,6073
+Action|Sci-Fi|War,War of the Worlds, The (1953),2,2180
+Action|Sci-Fi|Western,Wild Wild West (1999),1,1947
+Action|Thriller,Fugitive, The (1993),1,8186
+Action|Thriller,Die Hard (1988),2,6867
+Action|Thriller,Hunt for Red October, The (1990),3,6694
+Action|Thriller,Mission: Impossible 2 (2000),4,4196
+Action|Thriller,Die Hard 2 (1990),5,4020
+Action|Thriller,Thomas Crown Affair, The (1999),6,3966
+Action|Thriller,Patriot Games (1992),7,3945
+Action|Thriller,Air Force One (1997),8,3861
+Action|Thriller,In the Line of Fire (1993),9,3718
+Action|Thriller,Enemy of the State (1998),10,3643
+Action|Thriller|War,Peacemaker, The (1997),1,1222
+Action|War,Dirty Dozen, The (1967),1,2831
+Action|War,Red Dawn (1984),2,1556
+Action|War,Rambo: First Blood Part II (1985),3,1133
+Action|War,Heartbreak Ridge (1986),4,1004
+Action|War,Rambo III (1988),5,705
+Action|War,Iron Eagle (1986),6,703
+Action|War,Force 10 from Navarone (1978),7,666
+Action|War,Missing in Action (1984),8,485
+Action|War,Iron Eagle II (1988),9,276
+Action|War,Missing in Action 2: The Beginning (1985),10,217
+Action|Western,Good, The Bad and The Ugly, The (1966),1,3398
+Action|Western,Fistful of Dollars, A (1964),2,2085
+Adventure,Treasure of the Sierra Madre, The (1948),1,1943
+Adventure,Man Who Would Be King, The (1975),2,1280
+Adventure,Mutiny on the Bounty (1935),3,907
+Adventure,Bear, The (1988),4,590
+Adventure,Quest for Fire (1981),5,562
+Adventure,Mark of Zorro, The (1940),6,389
+Adventure,Phantom, The (1996),7,343
+Adventure,Firewalker (1986),8,96
+Adventure,Beyond the Poseidon Adventure (1979),9,66
+Adventure,Shanghai Surprise (1986),10,55
+Adventure|Animation|Children's,Gulliver's Travels (1939),1,415
+Adventure|Animation|Children's,Digimon: The Movie (2000),2,64
+Adventure|Animation|Children's|Comedy|Fantasy,Space Jam (1996),1,1475
+Adventure|Animation|Children's|Comedy|Musical,Hercules (1997),1,1538
+Adventure|Animation|Children's|Fantasy,Quest for Camelot (1998),1,189
+Adventure|Animation|Children's|Musical,Pete's Dragon (1977),1,994
+Adventure|Animation|Children's|Musical,Song of the South (1946),2,796
+Adventure|Animation|Children's|Sci-Fi,Lord of the Rings, The (1978),1,1460
+Adventure|Animation|Film-Noir,Who Framed Roger Rabbit? (1988),1,6620
+Adventure|Animation|Sci-Fi,Titan A.E. (2000),1,1809
+Adventure|Animation|Sci-Fi|Thriller,Akira (1988),1,1778
+Adventure|Children's,Swiss Family Robinson (1960),1,990
+Adventure|Children's,Fly Away Home (1996),2,836
+Adventure|Children's,Homeward Bound: The Incredible Journey (1993),3,783
+Adventure|Children's,Casper (1995),4,772
+Adventure|Children's,Journey of Natty Gann, The (1985),5,538
+Adventure|Children's,Benji (1974),6,463
+Adventure|Children's,Black Beauty (1994),7,316
+Adventure|Children's,Incredible Journey, The (1963),8,304
+Adventure|Children's,Tom and Huck (1995),9,205
+Adventure|Children's,Wild America (1997),10,190
+Adventure|Children's|Comedy,Jingle All the Way (1996),1,550
+Adventure|Children's|Comedy,Paulie (1998),2,486
+Adventure|Children's|Comedy,Herbie Rides Again (1974),3,368
+Adventure|Children's|Comedy,Herbie Goes Bananas (1980),4,264
+Adventure|Children's|Comedy,Herbie Goes to Monte Carlo (1977),5,258
+Adventure|Children's|Comedy,Candleshoe (1977),6,191
+Adventure|Children's|Comedy|Fantasy,Willy Wonka and the Chocolate Factory (1971),1,5070
+Adventure|Children's|Comedy|Fantasy,Borrowers, The (1997),2,539
+Adventure|Children's|Comedy|Fantasy|Romance,Kid in King Arthur's Court, A (1995),1,349
+Adventure|Children's|Comedy|Fantasy|Sci-Fi,Honey, I Shrunk the Kids (1989),1,3065
+Adventure|Children's|Comedy|Musical,Muppet Treasure Island (1996),1,806
+Adventure|Children's|Drama,Free Willy (1993),1,738
+Adventure|Children's|Drama,Mighty Joe Young (1998),2,509
+Adventure|Children's|Drama,Mighty Joe Young (1949),3,448
+Adventure|Children's|Drama,Free Willy 2: The Adventure Home (1995),4,228
+Adventure|Children's|Drama,Free Willy 3: The Rescue (1997),5,113
+Adventure|Children's|Drama,Buddy (1997),6,102
+Adventure|Children's|Drama|Musical,Wizard of Oz, The (1939),1,7298
+Adventure|Children's|Drama|Romance,Far Off Place, A (1993),1,190
+Adventure|Children's|Fantasy,NeverEnding Story, The (1984),1,2520
+Adventure|Children's|Fantasy,Goonies, The (1985),2,2504
+Adventure|Children's|Fantasy,Jumanji (1995),3,2244
+Adventure|Children's|Fantasy,Labyrinth (1986),4,2015
+Adventure|Children's|Fantasy,Indian in the Cupboard, The (1995),5,1147
+Adventure|Children's|Fantasy,Escape to Witch Mountain (1975),6,927
+Adventure|Children's|Fantasy,Santa Claus: The Movie (1985),7,595
+Adventure|Children's|Fantasy,Darby O'Gill and the Little People (1959),8,517
+Adventure|Children's|Fantasy,NeverEnding Story II: The Next Chapter, The (1990),9,427
+Adventure|Children's|Fantasy,NeverEnding Story III, The (1994),10,197
+Adventure|Children's|Fantasy|Sci-Fi,20,000 Leagues Under the Sea (1954),1,2129
+Adventure|Children's|Fantasy|Sci-Fi,Return to Oz (1985),2,787
+Adventure|Children's|Fantasy|Sci-Fi,Star Kid (1997),3,138
+Adventure|Children's|Musical,Bedknobs and Broomsticks (1971),1,1110
+Adventure|Children's|Romance,Jungle Book, The (1994),1,804
+Adventure|Children's|Sci-Fi,Flight of the Navigator (1986),1,1858
+Adventure|Children's|Sci-Fi,Howard the Duck (1986),2,911
+Adventure|Comedy,Crocodile Dundee (1986),1,3125
+Adventure|Comedy,Adventures in Babysitting (1987),2,1772
+Adventure|Comedy,Crocodile Dundee II (1988),3,1088
+Adventure|Comedy,Around the World in 80 Days (1956),4,969
+Adventure|Comedy,Nothing But Trouble (1991),5,166
+Adventure|Comedy,Almost Heroes (1998),6,149
+Adventure|Comedy,Vibes (1988),7,122
+Adventure|Comedy|Drama,Stand by Me (1986),1,7313
+Adventure|Comedy|Musical,Popeye (1980),1,1222
+Adventure|Comedy|Romance,Six Days Seven Nights (1998),1,1371
+Adventure|Comedy|Sci-Fi,Galaxy Quest (1999),1,6517
+Adventure|Comedy|Sci-Fi,Adventures of Buckaroo Bonzai Across the 8th Dimension, The (1984),2,2070
+Adventure|Comedy|Sci-Fi,Crimson Pirate, The (1952),3,262
+Adventure|Crime|Sci-Fi|Thriller,Dreamscape (1984),1,1173
+Adventure|Drama,Easy Rider (1969),1,1829
+Adventure|Drama,Beach, The (2000),2,1143
+Adventure|Drama,White Squall (1996),3,801
+Adventure|Drama,Old Man and the Sea, The (1958),4,495
+Adventure|Drama,Dersu Uzala (1974),5,398
+Adventure|Drama,Fitzcarraldo (1982),6,388
+Adventure|Drama,War, The (1994),7,275
+Adventure|Drama,Squanto: A Warrior's Tale (1994),8,53
+Adventure|Drama,Passion in the Desert (1998),9,32
+Adventure|Drama,Male and Female (1919),10,8
+Adventure|Drama|Romance,Blue Lagoon, The (1980),1,807
+Adventure|Drama|Romance,Bronco Billy (1980),2,497
+Adventure|Drama|Romance|Sci-Fi,Starman (1984),1,2994
+Adventure|Drama|Thriller,Lord of the Flies (1963),1,1294
+Adventure|Drama|Western,Dances with Wolves (1990),1,5681
+Adventure|Fantasy,Hook (1991),1,2179
+Adventure|Fantasy|Romance,Ladyhawke (1985),1,1991
+Adventure|Fantasy|Romance,Legend (1985),2,1161
+Adventure|Fantasy|Sci-Fi,Time Bandits (1981),1,3731
+Adventure|Fantasy|Sci-Fi,Navigator: A Mediaeval Odyssey, The (1988),2,392
+Adventure|Musical,Doctor Dolittle (1967),1,762
+Adventure|Musical|Romance,Slipper and the Rose, The (1976),1,109
+Adventure|Romance,Medicine Man (1992),1,802
+Adventure|Romance,Big Blue, The (Le Grand Bleu) (1988),2,318
+Adventure|Romance,Excess Baggage (1997),3,234
+Adventure|Romance,Golden Earrings (1947),4,39
+Adventure|Romance,Wings of Courage (1995),5,12
+Adventure|Romance|Sci-Fi,Forever Young (1992),1,1528
+Adventure|Sci-Fi,City of Lost Children, The (1995),1,1637
+Adventure|Sci-Fi,Fantastic Voyage (1966),2,1246
+Adventure|Sci-Fi,Barbarella (1968),3,1164
+Adventure|Sci-Fi,Voyage to the Bottom of the Sea (1961),4,605
+Adventure|Sci-Fi,My Science Project (1985),5,569
+Adventure|Sci-Fi,Supernova (2000),6,346
+Adventure|Sci-Fi,Baby... Secret of the Lost Legend (1985),7,238
+Adventure|Sci-Fi,Mighty Peking Man (Hsing hsing wang) (1977),8,17
+Adventure|Sci-Fi|Thriller,Sphere (1998),1,1441
+Adventure|Sci-Fi|Thriller,Saturn 3 (1979),2,325
+Adventure|Thriller,Deliverance (1972),1,2873
+Adventure|Thriller,Edge, The (1997),2,822
+Adventure|War,Lawrence of Arabia (1962),1,3658
+Adventure|War,Great Escape, The (1963),2,3046
+Adventure|War,For Whom the Bell Tolls (1943),3,368
+Adventure|War,Great Locomotive Chase, The (1956),4,73
+Adventure|Western,True Grit (1969),1,1196
+Adventure|Western,Tashunga (1995),2,2
+Animation,Wallace & Gromit: The Best of Aardman Animation (1996),1,1939
+Animation,I Married A Strange Person (1997),2,78
+Animation|Children's,Iron Giant, The (1999),1,2728
+Animation|Children's,Antz (1998),2,2247
+Animation|Children's,Bambi (1942),3,2202
+Animation|Children's,101 Dalmatians (1961),4,2032
+Animation|Children's,Charlotte's Web (1973),5,1900
+Animation|Children's,Pinocchio (1940),6,1868
+Animation|Children's,Mulan (1998),7,1834
+Animation|Children's,Tarzan (1999),8,1620
+Animation|Children's,Secret of NIMH, The (1982),9,1421
+Animation|Children's,Robin Hood (1973),10,1284
+Animation|Children's|Comedy,Toy Story (1995),1,8613
+Animation|Children's|Comedy,Toy Story 2 (1999),2,6687
+Animation|Children's|Comedy,Bug's Life, A (1998),3,6564
+Animation|Children's|Comedy,Chicken Run (2000),4,5156
+Animation|Children's|Comedy,American Tail, An (1986),5,1385
+Animation|Children's|Comedy,Aladdin and the King of Thieves (1996),6,605
+Animation|Children's|Comedy,American Tail: Fievel Goes West, An (1991),7,569
+Animation|Children's|Comedy,Adventures of Rocky and Bullwinkle, The (2000),8,514
+Animation|Children's|Comedy,Rugrats Movie, The (1998),9,392
+Animation|Children's|Comedy,Saludos Amigos (1943),10,46
+Animation|Children's|Comedy|Musical,Aladdin (1992),1,5118
+Animation|Children's|Comedy|Musical,Jungle Book, The (1967),2,2534
+Animation|Children's|Comedy|Musical,Steamboat Willie (1940),3,667
+Animation|Children's|Comedy|Musical|Romance,Little Mermaid, The (1989),1,3888
+Animation|Children's|Comedy|Musical|Romance,Lady and the Tramp (1955),2,3287
+Animation|Children's|Comedy|Romance,Goofy Movie, A (1995),1,483
+Animation|Children's|Drama|Fantasy,Watership Down (1978),1,1172
+Animation|Children's|Fantasy|Musical,Peter Pan (1953),1,2174
+Animation|Children's|Fantasy|War,Small Soldiers (1998),1,1023
+Animation|Children's|Musical,Lion King, The (1994),1,4328
+Animation|Children's|Musical,Beauty and the Beast (1991),2,4119
+Animation|Children's|Musical,Fantasia (1940),3,3682
+Animation|Children's|Musical,Snow White and the Seven Dwarfs (1937),4,2934
+Animation|Children's|Musical,Cinderella (1950),5,2167
+Animation|Children's|Musical,Dumbo (1941),6,2095
+Animation|Children's|Musical,Alice in Wonderland (1951),7,1941
+Animation|Children's|Musical,Sleeping Beauty (1959),8,1896
+Animation|Children's|Musical,James and the Giant Peach (1996),9,1819
+Animation|Children's|Musical,Fantasia 2000 (1999),10,1724
+Animation|Children's|Musical|Romance,Pocahontas (1995),1,1137
+Animation|Comedy,South Park: Bigger, Longer and Uncut (1999),1,4772
+Animation|Comedy,Wrong Trousers, The (1993),2,3976
+Animation|Comedy,Grand Day Out, A (1992),3,2063
+Animation|Comedy,Beavis and Butt-head Do America (1996),4,1444
+Animation|Comedy,Creature Comforts (1990),5,1188
+Animation|Comedy|Thriller,Close Shave, A (1995),1,2970
+Animation|Comedy|Thriller,Faust (1994),2,108
+Animation|Musical,Prince of Egypt, The (1998),1,2068
+Animation|Musical,Yellow Submarine (1968),2,1475
+Animation|Musical,American Pop (1981),3,344
+Animation|Mystery,Perfect Blue (1997),1,161
+Animation|Sci-Fi,Ghost in the Shell (Kokaku kidotai) (1995),1,1284
+Animation|Sci-Fi,Fantastic Planet, The (La Planète sauvage) (1973),2,353
+Animation|Sci-Fi,Time Masters (Les Maîtres du Temps) (1982),3,20
+Children's,Adventures of Milo and Otis, The (1986),1,559
+Children's,Baby-Sitters Club, The (1995),2,102
+Children's,Gnome-Mobile, The (1967),3,70
+Children's,Thomas and the Magic Railroad (2000),4,67
+Children's,Zeus and Roxanne (1997),5,58
+Children's|Comedy,Muppet Movie, The (1979),1,2869
+Children's|Comedy,Home Alone (1990),2,2116
+Children's|Comedy,Babe: Pig in the City (1998),3,1721
+Children's|Comedy,Stuart Little (1999),4,1638
+Children's|Comedy,Great Muppet Caper, The (1981),5,1338
+Children's|Comedy,Muppets Take Manhattan, The (1984),6,1195
+Children's|Comedy,101 Dalmatians (1996),7,1109
+Children's|Comedy,Mighty Ducks, The (1992),8,1042
+Children's|Comedy,George of the Jungle (1997),9,891
+Children's|Comedy,Home Alone 2: Lost in New York (1992),10,816
+Children's|Comedy|Drama,Babe (1995),1,6814
+Children's|Comedy|Drama,Pollyanna (1960),2,463
+Children's|Comedy|Drama,Wide Awake (1998),3,153
+Children's|Comedy|Fantasy,Santa Clause, The (1994),1,2046
+Children's|Comedy|Fantasy,Absent Minded Professor, The (1961),2,1312
+Children's|Comedy|Fantasy,Flubber (1997),3,771
+Children's|Comedy|Fantasy,Kazaam (1996),4,176
+Children's|Comedy|Musical,Mary Poppins (1964),1,3937
+Children's|Comedy|Musical,Nightmare Before Christmas, The (1993),2,3703
+Children's|Comedy|Mystery,That Darn Cat! (1965),1,400
+Children's|Comedy|Mystery,That Darn Cat! (1997),2,252
+Children's|Comedy|Sci-Fi,Honey, I Blew Up the Kid (1992),1,860
+Children's|Comedy|Sci-Fi,Cat from Outer Space, The (1978),2,575
+Children's|Comedy|Western,Apple Dumpling Gang, The (1975),1,691
+Children's|Comedy|Western,Apple Dumpling Gang Rides Again, The (1979),2,290
+Children's|Drama,Secret Garden, The (1993),1,1274
+Children's|Drama,Old Yeller (1957),2,1115
+Children's|Drama,Parent Trap, The (1961),3,920
+Children's|Drama,Parent Trap, The (1998),4,880
+Children's|Drama,Little Princess, A (1995),5,666
+Children's|Drama,Little Princess, The (1939),6,283
+Children's|Drama,Shiloh (1997),7,123
+Children's|Drama,Prancer (1989),7,123
+Children's|Drama,Fluke (1995),9,96
+Children's|Drama,Kidnapped (1960),10,50
+Children's|Drama|Fantasy,FairyTale: A True Story (1997),1,288
+Children's|Drama|Fantasy,Bogus (1996),2,111
+Children's|Drama|Fantasy|Sci-Fi,E.T. the Extra-Terrestrial (1982),1,8997
+Children's|Fantasy,Simple Wish, A (1997),1,75
+Children's|Fantasy|Musical,Babes in Toyland (1961),1,484
+Children's|Fantasy|Sci-Fi,Dark Crystal, The (1982),1,2593
+Children's|Horror,Something Wicked This Way Comes (1983),1,743
+Children's|Musical,Muppet Christmas Carol, The (1992),1,945
+Children's|Musical,Newsies (1992),2,291
+Children's|Sci-Fi,Return from Witch Mountain (1978),1,530
+Comedy,Being John Malkovich (1999),1,9245
+Comedy,Monty Python and the Holy Grail (1974),2,6932
+Comedy,Airplane! (1980),3,6874
+Comedy,Ferris Bueller's Day Off (1986),4,6065
+Comedy,Election (1999),5,5982
+Comedy,Raising Arizona (1987),6,5766
+Comedy,Clerks (1994),7,5573
+Comedy,High Fidelity (2000),8,5394
+Comedy,There's Something About Mary (1998),9,5353
+Comedy,Fish Called Wanda, A (1988),10,5266
+Comedy|Crime,Sting, The (1973),1,4532
+Comedy|Crime,Grosse Pointe Blank (1997),2,4332
+Comedy|Crime,Some Like It Hot (1959),3,3578
+Comedy|Crime,Sister Act (1992),4,2110
+Comedy|Crime,Whole Nine Yards, The (2000),5,2034
+Comedy|Crime,Striptease (1996),6,651
+Comedy|Crime,Very Bad Things (1998),7,602
+Comedy|Crime,Armed and Dangerous (1986),8,322
+Comedy|Crime,Mafia! (1998),9,316
+Comedy|Crime,Carpool (1996),10,53
+Comedy|Crime|Drama,Dog Day Afternoon (1975),1,3037
+Comedy|Crime|Drama,Mystery Train (1989),2,729
+Comedy|Crime|Drama,Hana-bi (1997),3,137
+Comedy|Crime|Drama|Mystery,Midnight in the Garden of Good and Evil (1997),1,2043
+Comedy|Crime|Fantasy,Mask, The (1994),1,3866
+Comedy|Crime|Horror,Serial Mom (1994),1,1186
+Comedy|Crime|Mystery|Thriller,Big Lebowski, The (1998),1,4101
+Comedy|Crime|Thriller,Lock, Stock & Two Smoking Barrels (1998),1,2436
+Comedy|Crime|Thriller,Dead Men Don't Wear Plaid (1982),2,1198
+Comedy|Crime|Thriller,Goodbye, Lover (1999),3,74
+Comedy|Documentary,Roger & Me (1989),1,3251
+Comedy|Documentary,Original Kings of Comedy, The (2000),2,475
+Comedy|Documentary,Big One, The (1997),3,408
+Comedy|Documentary,It Came from Hollywood (1982),4,146
+Comedy|Drama,American Beauty (1999),1,14800
+Comedy|Drama,Breakfast Club, The (1985),2,5971
+Comedy|Drama,Christmas Story, A (1983),3,5731
+Comedy|Drama,As Good As It Gets (1997),4,5625
+Comedy|Drama,Life Is Beautiful (La Vita è bella) (1997),5,4988
+Comedy|Drama,Almost Famous (2000),6,4201
+Comedy|Drama,League of Their Own, A (1992),7,4044
+Comedy|Drama,American Graffiti (1973),8,3986
+Comedy|Drama,Cool Hand Luke (1967),9,3956
+Comedy|Drama,Player, The (1992),10,3876
+Comedy|Drama|Musical,This Is Spinal Tap (1984),1,4673
+Comedy|Drama|Romance,American President, The (1995),1,3919
+Comedy|Drama|Romance,Say Anything... (1989),2,3672
+Comedy|Drama|Romance,Fisher King, The (1991),3,3427
+Comedy|Drama|Romance,Broadcast News (1987),4,2957
+Comedy|Drama|Romance,Manhattan (1979),5,2931
+Comedy|Drama|Romance,Cinema Paradiso (1988),6,2637
+Comedy|Drama|Romance,Pretty in Pink (1986),7,2333
+Comedy|Drama|Romance,Prizzi's Honor (1985),8,1958
+Comedy|Drama|Romance,Emma (1996),9,1944
+Comedy|Drama|Romance,Purple Rose of Cairo, The (1985),10,1724
+Comedy|Drama|Sci-Fi,Bicentennial Man (1999),1,1113
+Comedy|Drama|Thriller,House of Yes, The (1997),1,674
+Comedy|Drama|War,Good Morning, Vietnam (1987),1,4040
+Comedy|Drama|War,Mister Roberts (1955),2,1747
+Comedy|Drama|War,Renaissance Man (1994),3,712
+Comedy|Drama|War,To Be or Not to Be (1942),4,620
+Comedy|Drama|Western,Little Big Man (1970),1,2390
+Comedy|Drama|Western,Yojimbo (1961),2,947
+Comedy|Drama|Western,One Little Indian (1973),3,5
+Comedy|Fantasy,Big (1988),1,5749
+Comedy|Fantasy,Beetlejuice (1988),2,5334
+Comedy|Fantasy,Midsummer Night's Dream, A (1999),3,1390
+Comedy|Fantasy,Heart and Souls (1993),4,777
+Comedy|Fantasy,Drop Dead Fred (1991),5,752
+Comedy|Fantasy,Date with an Angel (1987),6,109
+Comedy|Fantasy|Romance,Splash (1984),1,3990
+Comedy|Fantasy|Romance|Sci-Fi,Nutty Professor, The (1996),1,2840
+Comedy|Film-Noir|Thriller,Frogs for Snakes (1998),1,10
+Comedy|Horror,Ghostbusters (1984),1,8518
+Comedy|Horror,Young Frankenstein (1974),2,5071
+Comedy|Horror,Gremlins (1984),3,2536
+Comedy|Horror,Scary Movie (2000),4,1846
+Comedy|Horror,Ghostbusters II (1989),5,1642
+Comedy|Horror,Buffy the Vampire Slayer (1992),6,1583
+Comedy|Horror,Little Shop of Horrors, The (1960),7,1179
+Comedy|Horror,Frighteners, The (1996),8,1132
+Comedy|Horror,Fright Night (1985),9,1051
+Comedy|Horror,Gremlins 2: The New Batch (1990),10,935
+Comedy|Horror|Musical,Little Shop of Horrors (1986),1,3119
+Comedy|Horror|Musical|Sci-Fi,Rocky Horror Picture Show, The (1975),1,4058
+Comedy|Horror|Sci-Fi,Night of the Creeps (1986),1,166
+Comedy|Horror|Thriller,American Psycho (2000),1,2028
+Comedy|Horror|Thriller,Day of the Beast, The (El Día de la bestia) (1995),2,73
+Comedy|Horror|Thriller,Psycho Beach Party (2000),3,72
+Comedy|Musical,Producers, The (1968),1,2727
+Comedy|Musical,Hard Day's Night, A (1964),2,2015
+Comedy|Musical,Victor/Victoria (1982),3,1570
+Comedy|Musical,Help! (1965),4,1098
+Comedy|Musical,Holiday Inn (1942),5,1067
+Comedy|Musical,Funny Face (1957),6,634
+Comedy|Musical,Great Race, The (1965),7,579
+Comedy|Musical,Anchors Aweigh (1945),8,374
+Comedy|Musical,Spice World (1997),9,356
+Comedy|Musical,Blue Hawaii (1961),10,342
+Comedy|Musical|Romance,Grease (1978),1,2923
+Comedy|Musical|Romance,Top Hat (1935),2,1041
+Comedy|Musical|Romance,Everyone Says I Love You (1996),3,975
+Comedy|Musical|Romance,Shall We Dance? (1937),4,729
+Comedy|Musical|Romance,Grease 2 (1982),5,595
+Comedy|Musical|Romance,Gay Divorcee, The (1934),6,412
+Comedy|Musical|Romance,Pal Joey (1957),7,241
+Comedy|Musical|Romance,Damsel in Distress, A (1937),8,87
+Comedy|Mystery,Clue (1985),1,1439
+Comedy|Mystery,Manhattan Murder Mystery (1993),2,1246
+Comedy|Mystery,Man Who Knew Too Little, The (1997),3,795
+Comedy|Mystery,Outrageous Fortune (1987),4,548
+Comedy|Mystery,Lady of Burlesque (1943),5,44
+Comedy|Mystery|Romance,Radioland Murders (1994),1,209
+Comedy|Mystery|Romance|Thriller,Charade (1963),1,1280
+Comedy|Mystery|Romance|Thriller,Lady Vanishes, The (1938),2,833
+Comedy|Mystery|Thriller,Arsenic and Old Lace (1944),1,2801
+Comedy|Romance,Shakespeare in Love (1998),1,9778
+Comedy|Romance,Groundhog Day (1993),2,9005
+Comedy|Romance,When Harry Met Sally... (1989),3,6387
+Comedy|Romance,Annie Hall (1977),4,5525
+Comedy|Romance,Clueless (1995),5,4935
+Comedy|Romance,Four Weddings and a Funeral (1994),6,4616
+Comedy|Romance,Pretty Woman (1990),7,3809
+Comedy|Romance,Sleepless in Seattle (1993),8,3708
+Comedy|Romance,Dave (1993),9,3613
+Comedy|Romance,Office Space (1999),10,3332
+Comedy|Romance|Sci-Fi,Free Enterprise (1998),1,155
+Comedy|Romance|Thriller,Ghost (1990),1,3930
+Comedy|Romance|Thriller,So I Married an Axe Murderer (1993),2,2308
+Comedy|Romance|Thriller,To Catch a Thief (1955),3,1817
+Comedy|Romance|War,Forrest Gump (1994),1,8969
+Comedy|Sci-Fi,Back to the Future (1985),1,10307
+Comedy|Sci-Fi,Back to the Future Part II (1989),2,3872
+Comedy|Sci-Fi,Cocoon (1985),3,3559
+Comedy|Sci-Fi,Sleeper (1973),4,2961
+Comedy|Sci-Fi,Spaceballs (1987),5,2952
+Comedy|Sci-Fi,Repo Man (1984),6,2766
+Comedy|Sci-Fi,Mystery Science Theater 3000: The Movie (1996),7,1678
+Comedy|Sci-Fi,Delicatessen (1991),8,1473
+Comedy|Sci-Fi,Coneheads (1993),9,1389
+Comedy|Sci-Fi,Cocoon: The Return (1988),10,655
+Comedy|Sci-Fi|Western,Back to the Future Part III (1990),1,3722
+Comedy|Thriller,Nurse Betty (2000),1,1958
+Comedy|Thriller,Zero Effect (1998),2,1129
+Comedy|Thriller,Mona Lisa (1986),3,603
+Comedy|Thriller,Teaching Mrs. Tingle (1999),4,524
+Comedy|Thriller,Another Stakeout (1993),5,444
+Comedy|Thriller,Homegrown (1998),6,350
+Comedy|Thriller,Family Plot (1976),7,267
+Comedy|Thriller,Head Above Water (1996),8,51
+Comedy|Thriller,Junk Mail (1997),9,10
+Comedy|Thriller,Tainted (1998),10,3
+Comedy|War,M*A*S*H (1970),1,4533
+Comedy|War,Duck Soup (1933),2,2501
+Comedy|War,Bananas (1971),3,1427
+Comedy|War,Canadian Bacon (1994),4,511
+Comedy|War,Mediterraneo (1991),5,346
+Comedy|War,McHale's Navy (1997),6,339
+Comedy|War,In the Army Now (1994),7,336
+Comedy|War,How I Won the War (1967),8,120
+Comedy|War,And the Ship Sails On (E la nave va) (1984),9,65
+Comedy|Western,Blazing Saddles (1974),1,4529
+Comedy|Western,Three Amigos! (1986),2,1774
+Comedy|Western,Cat Ballou (1965),3,1027
+Comedy|Western,City Slickers II: The Legend of Curly's Gold (1994),4,1011
+Comedy|Western,Lightning Jack (1994),5,162
+Comedy|Western,Hot Lead and Cold Feet (1978),6,119
+Comedy|Western,Castaway Cowboy, The (1974),7,8
+Crime,Go (1999),1,2787
+Crime,2 Days in the Valley (1996),2,939
+Crime,Freeway (1996),3,616
+Crime,Clay Pigeons (1998),4,429
+Crime,Long Goodbye, The (1973),5,317
+Crime,Young Poisoner's Handbook, The (1995),6,287
+Crime,Coogan's Bluff (1968),7,247
+Crime,General, The (1998),8,210
+Crime,Gridlock'd (1997),9,165
+Crime,Kansas City (1996),10,130
+Crime|Drama,Pulp Fiction (1994),1,9288
+Crime|Drama,GoodFellas (1990),2,7084
+Crime|Drama,Few Good Men, A (1992),3,4171
+Crime|Drama,Bonnie and Clyde (1967),4,2810
+Crime|Drama,Donnie Brasco (1997),5,2729
+Crime|Drama,Jackie Brown (1997),6,2671
+Crime|Drama,On the Waterfront (1954),7,2216
+Crime|Drama,Serpico (1973),8,1971
+Crime|Drama,Drugstore Cowboy (1989),9,1631
+Crime|Drama,Carlito's Way (1993),10,1362
+Crime|Drama|Film-Noir,Grifters, The (1990),1,3353
+Crime|Drama|Film-Noir,Hoodlum (1997),2,204
+Crime|Drama|Film-Noir,This World, Then the Fireworks (1996),3,38
+Crime|Drama|Film-Noir|Thriller,Key Largo (1948),1,1882
+Crime|Drama|Mystery,Cop Land (1997),1,1653
+Crime|Drama|Mystery,Bat Whispers, The (1930),2,2
+Crime|Drama|Mystery|Thriller,Wild Things (1998),1,2157
+Crime|Drama|Romance,Atlantic City (1980),1,1165
+Crime|Drama|Romance,Things to Do in Denver when You're Dead (1995),2,525
+Crime|Drama|Romance,Thieves (Voleurs, Les) (1996),3,128
+Crime|Drama|Romance|Thriller,Professional, The (a.k.a. Leon: The Professional) (1994),1,3790
+Crime|Drama|Romance|Thriller,Bound (1996),2,2187
+Crime|Drama|Sci-Fi,Sneakers (1992),1,4067
+Crime|Drama|Sci-Fi,Alien Nation (1988),2,1625
+Crime|Drama|Thriller,Fargo (1996),1,10692
+Crime|Drama|Thriller,Kiss the Girls (1997),2,1318
+Crime|Drama|Thriller,Copycat (1995),3,1266
+Crime|Drama|Thriller,Thomas Crown Affair, The (1968),4,1008
+Crime|Drama|Thriller,Once Upon a Time in America (1984),5,931
+Crime|Drama|Thriller,Desperate Measures (1998),6,301
+Crime|Drama|Thriller,Kiss of Death (1995),7,290
+Crime|Drama|Thriller,Amateur (1994),8,178
+Crime|Drama|Thriller,Guilty as Sin (1993),9,129
+Crime|Film-Noir,Double Indemnity (1944),1,2433
+Crime|Film-Noir,Asphalt Jungle, The (1950),2,593
+Crime|Film-Noir,Killing, The (1956),3,542
+Crime|Film-Noir,Crossfire (1947),4,129
+Crime|Film-Noir|Mystery,Laura (1944),1,1227
+Crime|Film-Noir|Mystery|Thriller,L.A. Confidential (1997),1,9654
+Crime|Film-Noir|Mystery|Thriller,Devil in a Blue Dress (1995),2,1352
+Crime|Film-Noir|Thriller,Touch of Evil (1958),1,2167
+Crime|Film-Noir|Thriller,M (1931),2,1325
+Crime|Film-Noir|Thriller,Mulholland Falls (1996),3,849
+Crime|Film-Noir|Thriller,He Walked by Night (1948),4,101
+Crime|Horror,Henry: Portrait of a Serial Killer (1990),1,762
+Crime|Horror,Henry: Portrait of a Serial Killer, Part 2 (1996),2,52
+Crime|Horror|Mystery|Thriller,Devil's Advocate, The (1997),1,2838
+Crime|Horror|Thriller,Psycho (1998),1,700
+Crime|Mystery,Yards, The (1999),1,248
+Crime|Thriller,Usual Suspects, The (1995),1,8054
+Crime|Thriller,Reservoir Dogs (1992),2,5207
+Crime|Thriller,Seven (Se7en) (1995),3,4669
+Crime|Thriller,Simple Plan, A (1998),4,2795
+Crime|Thriller,Entrapment (1999),5,2462
+Crime|Thriller,Body Heat (1981),6,2032
+Crime|Thriller,Hard 8 (a.k.a. Sydney, a.k.a. Hard Eight) (1996),7,697
+Crime|Thriller,Way of the Gun, The (2000),8,594
+Crime|Thriller,Postman Always Rings Twice, The (1981),9,538
+Crime|Thriller,True Crime (1999),10,398
+Documentary,Hoop Dreams (1994),1,2999
+Documentary,Crumb (1994),2,1995
+Documentary,When We Were Kings (1996),3,1197
+Documentary,American Movie (1999),4,1184
+Documentary,Thin Blue Line, The (1988),5,1144
+Documentary,Stop Making Sense (1984),6,1012
+Documentary,Buena Vista Social Club (1999),7,933
+Documentary,Trekkies (1997),8,864
+Documentary,Fast, Cheap & Out of Control (1997),9,728
+Documentary,Paradise Lost: The Child Murders at Robin Hood Hills (1996),10,670
+Documentary|Drama,Looking for Richard (1996),1,558
+Documentary|Drama,Endurance (1998),2,48
+Documentary|Drama,JLG/JLG - autoportrait de décembre (1994),3,14
+Documentary|Drama,Tigrero: A Film That Was Never Made (1994),3,14
+Documentary|Musical,U2: Rattle and Hum (1988),1,440
+Documentary|Musical,Kurt & Courtney (1998),2,220
+Documentary|War,Koyaanisqatsi (1983),1,723
+Drama,Shawshank Redemption, The (1994),1,10143
+Drama,One Flew Over the Cuckoo's Nest (1975),2,7574
+Drama,Good Will Hunting (1997),3,6465
+Drama,Fight Club (1999),4,5916
+Drama,Amadeus (1984),5,5876
+Drama,Rain Man (1988),6,5391
+Drama,Apollo 13 (1995),7,5096
+Drama,Erin Brockovich (2000),8,5081
+Drama,Citizen Kane (1941),9,4898
+Drama,Magnolia (1999),10,4334
+Drama|Fantasy,Boy Who Could Fly, The (1986),1,572
+Drama|Fantasy,Faraway, So Close (In Weiter Ferne, So Nah!) (1993),2,245
+Drama|Fantasy,One Magic Christmas (1985),3,103
+Drama|Fantasy|Romance|Thriller,Heavenly Creatures (1994),1,1844
+Drama|Film-Noir,Blood Simple (1984),1,2649
+Drama|Film-Noir|Thriller,Wrong Man, The (1956),1,351
+Drama|Horror,Interview with the Vampire (1994),1,2601
+Drama|Horror,Bringing Out the Dead (1999),2,1711
+Drama|Horror,Craft, The (1996),3,1284
+Drama|Horror,Wolf (1994),4,798
+Drama|Horror,Needful Things (1993),5,712
+Drama|Horror,Mary Shelley's Frankenstein (1994),6,707
+Drama|Horror,Eraserhead (1977),7,690
+Drama|Horror,Ravenous (1999),8,532
+Drama|Horror,Gothic (1986),9,172
+Drama|Horror,Possession (1981),10,5
+Drama|Horror|Thriller,Peeping Tom (1960),1,328
+Drama|Musical,Doors, The (1991),1,2317
+Drama|Musical,Nashville (1975),2,1274
+Drama|Musical,Evita (1996),3,918
+Drama|Musical,Misérables, Les (1995),4,855
+Drama|Musical,Dancer in the Dark (2000),5,764
+Drama|Musical,Tommy (1975),6,636
+Drama|Musical,Selena (1997),7,497
+Drama|Musical,Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964),8,446
+Drama|Musical,Backbeat (1993),9,423
+Drama|Musical,Farinelli: il castrato (1994),10,280
+Drama|Musical|War,Pink Floyd - The Wall (1982),1,1409
+Drama|Mystery,JFK (1991),1,2839
+Drama|Mystery,Lone Star (1996),2,2572
+Drama|Mystery,Blue Velvet (1986),3,2461
+Drama|Mystery,Red Violin, The (Le Violon rouge) (1998),4,2310
+Drama|Mystery,Conversation, The (1974),5,1925
+Drama|Mystery,In the Heat of the Night (1967),6,1437
+Drama|Mystery,Klute (1971),7,1150
+Drama|Mystery,Blowup (1966),8,937
+Drama|Mystery,Agnes of God (1985),9,933
+Drama|Mystery,Anatomy of a Murder (1959),10,842
+Drama|Mystery|Romance,Sommersby (1993),1,948
+Drama|Mystery|Romance,Chungking Express (1994),2,445
+Drama|Mystery|Romance,Flesh and Bone (1993),3,334
+Drama|Mystery|Romance,Lulu on the Bridge (1998),4,59
+Drama|Mystery|Sci-Fi|Thriller,2001: A Space Odyssey (1968),1,6982
+Drama|Mystery|Thriller,Talented Mr. Ripley, The (1999),1,4663
+Drama|Mystery|Thriller,Client, The (1994),2,1747
+Drama|Romance,Titanic (1997),1,5540
+Drama|Romance,Graduate, The (1967),2,5354
+Drama|Romance,Edward Scissorhands (1990),3,5292
+Drama|Romance,Jerry Maguire (1996),4,5086
+Drama|Romance,Chasing Amy (1997),5,3650
+Drama|Romance,Leaving Las Vegas (1995),6,3578
+Drama|Romance,Sense and Sensibility (1995),7,3363
+Drama|Romance,Dangerous Liaisons (1988),8,3070
+Drama|Romance,Like Water for Chocolate (Como agua para chocolate) (1992),9,3036
+Drama|Romance,Breakfast at Tiffany's (1961),10,2642
+Drama|Romance|Sci-Fi,Open Your Eyes (Abre los ojos) (1997),1,245
+Drama|Romance|Thriller,Witness (1985),1,4180
+Drama|Romance|Thriller,Wings of the Dove, The (1997),2,820
+Drama|Romance|War,Casablanca (1942),1,7365
+Drama|Romance|War,Gone with the Wind (1939),2,4621
+Drama|Romance|War,Crying Game, The (1992),3,4586
+Drama|Romance|War,English Patient, The (1996),4,3570
+Drama|Romance|War,Doctor Zhivago (1965),5,2293
+Drama|Romance|War,Rob Roy (1995),6,1988
+Drama|Romance|War,From Here to Eternity (1953),7,1491
+Drama|Romance|War,Ride with the Devil (1999),8,241
+Drama|Romance|War,Wings (1927),9,175
+Drama|Romance|War,Colonel Chabert, Le (1994),10,74
+Drama|Romance|War|Western,Legends of the Fall (1994),1,2415
+Drama|Romance|Western,Santa Fe Trail (1940),1,98
+Drama|Sci-Fi,Twelve Monkeys (1995),1,5962
+Drama|Sci-Fi,Close Encounters of the Third Kind (1977),2,5825
+Drama|Sci-Fi,Contact (1997),3,5208
+Drama|Sci-Fi,Day the Earth Stood Still, The (1951),4,2315
+Drama|Sci-Fi,Powder (1995),5,1984
+Drama|Sci-Fi,Nineteen Eighty-Four (1984),6,1034
+Drama|Sci-Fi,Brother from Another Planet, The (1984),7,882
+Drama|Sci-Fi,Solaris (Solyaris) (1972),8,494
+Drama|Sci-Fi,Until the End of the World (Bis ans Ende der Welt) (1991),9,490
+Drama|Sci-Fi,Conceiving Ada (1997),10,17
+Drama|Sci-Fi|Thriller,Gattaca (1997),1,3997
+Drama|Sci-Fi|Thriller,Thirteenth Floor, The (1999),2,1247
+Drama|Sci-Fi|Thriller,Communion (1989),3,331
+Drama|Thriller,Silence of the Lambs, The (1991),1,11219
+Drama|Thriller,North by Northwest (1959),2,5765
+Drama|Thriller,Taxi Driver (1976),3,5188
+Drama|Thriller,Green Mile, The (1999),4,5077
+Drama|Thriller,Sling Blade (1996),5,4953
+Drama|Thriller,Frequency (2000),6,3086
+Drama|Thriller,Firm, The (1993),7,2923
+Drama|Thriller,Casino (1995),8,2587
+Drama|Thriller,General's Daughter, The (1999),9,2171
+Drama|Thriller,Ransom (1996),10,1962
+Drama|Thriller|War,Crimson Tide (1995),1,2830
+Drama|Thriller|War,Lifeboat (1944),2,840
+Drama|War,Schindler's List (1993),1,10392
+Drama|War,Apocalypse Now (1979),2,4990
+Drama|War,Platoon (1986),3,4675
+Drama|War,Bridge on the River Kwai, The (1957),4,4115
+Drama|War,Three Kings (1999),5,3887
+Drama|War,Killing Fields, The (1984),6,3110
+Drama|War,Deer Hunter, The (1978),7,2877
+Drama|War,Patton (1970),8,2752
+Drama|War,Last Emperor, The (1987),9,2529
+Drama|War,Henry V (1989),10,1826
+Drama|Western,Shane (1953),1,1171
+Drama|Western,Hud (1963),2,1122
+Drama|Western,McCabe & Mrs. Miller (1971),3,769
+Drama|Western,Geronimo: An American Legend (1993),4,285
+Drama|Western,Lonely Are the Brave (1962),5,200
+Drama|Western,Hi-Lo Country, The (1998),6,79
+Fantasy,Hungarian Fairy Tale, A (1987),1,4
+Fantasy|Sci-Fi,Dune (1984),1,2648
+Film-Noir,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),1,2111
+Film-Noir,Out of the Past (1947),2,440
+Film-Noir,Gilda (1946),3,429
+Film-Noir,Force of Evil (1948),4,124
+Film-Noir,Killer's Kiss (1955),5,111
+Film-Noir,Hitch-Hiker, The (1953),6,64
+Film-Noir,T-Men (1947),7,56
+Film-Noir,Raw Deal (1948),8,48
+Film-Noir,Big Combo, The (1955),9,23
+Film-Noir,Railroaded! (1947),10,9
+Film-Noir|Horror,Bluebeard (1944),1,8
+Film-Noir|Mystery,Maltese Falcon, The (1941),1,4585
+Film-Noir|Mystery,Big Sleep, The (1946),2,2333
+Film-Noir|Mystery|Thriller,Chinatown (1974),1,5142
+Film-Noir|Mystery|Thriller,Angel Heart (1987),2,1525
+Film-Noir|Mystery|Thriller,Palmetto (1998),3,644
+Film-Noir|Romance|Thriller,Notorious (1946),1,1911
+Film-Noir|Sci-Fi,Blade Runner (1982),1,7692
+Film-Noir|Sci-Fi|Thriller,Dark City (1998),1,3341
+Film-Noir|Thriller,Manchurian Candidate, The (1962),1,3315
+Film-Noir|Thriller,Strangers on a Train (1951),2,2075
+Film-Noir|Thriller,Cape Fear (1962),3,1416
+Film-Noir|Thriller,Shadow of a Doubt (1943),4,995
+Film-Noir|Thriller,Murder, My Sweet (1944),5,432
+Film-Noir|Thriller,Suture (1993),6,109
+Horror,Shining, The (1980),1,4462
+Horror,Blair Witch Project, The (1999),2,3750
+Horror,Exorcist, The (1973),3,3501
+Horror,Misery (1990),4,3382
+Horror,Birds, The (1963),5,2846
+Horror,American Werewolf in London, An (1981),6,2060
+Horror,Carrie (1976),7,2044
+Horror,Halloween (1978),8,1879
+Horror,Frankenstein (1931),9,1614
+Horror,Nightmare on Elm Street, A (1984),10,1572
+Horror|Mystery,Dark Half, The (1993),1,280
+Horror|Mystery|Thriller,Jacob's Ladder (1990),1,2387
+Horror|Mystery|Thriller,Scream 3 (2000),2,1577
+Horror|Mystery|Thriller,I Know What You Did Last Summer (1997),3,1250
+Horror|Mystery|Thriller,I Still Know What You Did Last Summer (1998),4,650
+Horror|Romance,Sleepy Hollow (1999),1,3749
+Horror|Romance,Bram Stoker's Dracula (1992),2,2247
+Horror|Romance,Mummy, The (1932),3,573
+Horror|Sci-Fi,Fly, The (1986),1,3685
+Horror|Sci-Fi,Night of the Living Dead (1968),2,2625
+Horror|Sci-Fi,Invasion of the Body Snatchers (1956),3,2457
+Horror|Sci-Fi,Fly, The (1958),4,1612
+Horror|Sci-Fi,Species (1995),5,1553
+Horror|Sci-Fi,Faculty, The (1998),6,1425
+Horror|Sci-Fi,Blob, The (1958),7,1060
+Horror|Sci-Fi,Phantasm (1979),8,1057
+Horror|Sci-Fi,Invisible Man, The (1933),9,870
+Horror|Sci-Fi,Swamp Thing (1982),10,692
+Horror|Sci-Fi|Thriller,Hollow Man (2000),1,1028
+Horror|Sci-Fi|Thriller,Body Snatchers (1993),2,829
+Horror|Sci-Fi|Thriller,Village of the Damned (1960),3,735
+Horror|Sci-Fi|Thriller,Puppet Master (1989),4,449
+Horror|Sci-Fi|Thriller,Children of the Damned (1963),5,432
+Horror|Sci-Fi|Thriller,Puppet Master III: Toulon's Revenge (1991),6,193
+Horror|Sci-Fi|Thriller,Puppet Master II (1990),7,181
+Horror|Sci-Fi|Thriller,Puppet Master 4 (1993),8,108
+Horror|Sci-Fi|Thriller,Puppet Master 5: The Final Chapter (1994),9,91
+Horror|Sci-Fi|Thriller,Curse of the Puppet Master (1998),10,45
+Horror|Thriller,Psycho (1960),1,5328
+Horror|Thriller,Scream (1996),2,3168
+Horror|Thriller,Poltergeist (1982),3,2929
+Horror|Thriller,Rosemary's Baby (1968),4,2719
+Horror|Thriller,Scream 2 (1997),5,1354
+Horror|Thriller,Dead Zone, The (1983),6,1344
+Horror|Thriller,Haunting, The (1999),7,1134
+Horror|Thriller,Lake Placid (1999),8,1053
+Horror|Thriller,Firestarter (1984),9,796
+Horror|Thriller,Cujo (1983),10,669
+Musical,Sound of Music, The (1965),1,3468
+Musical,King and I, The (1956),2,1471
+Musical,All That Jazz (1979),3,1212
+Musical,White Christmas (1954),4,1037
+Musical,Guys and Dolls (1955),5,986
+Musical,Oliver! (1968),6,787
+Musical,Meet Me in St. Louis (1944),7,717
+Musical,Gigi (1958),8,677
+Musical,On the Town (1949),9,666
+Musical,Gypsy (1962),10,451
+Musical|Romance,Singin' in the Rain (1952),1,3217
+Musical|Romance,West Side Story (1961),2,3088
+Musical|Romance,My Fair Lady (1964),3,2642
+Musical|Romance,Dirty Dancing (1987),4,2275
+Musical|Romance,American in Paris, An (1951),5,1321
+Musical|Romance|War,South Pacific (1958),1,1012
+Musical|War,Cabaret (1972),1,1729
+Mystery,Name of the Rose, The (1986),1,1264
+Mystery,Thin Man, The (1934),2,1238
+Mystery,Cookie's Fortune (1999),3,848
+Mystery,Lost Highway (1997),4,486
+Mystery,Daytrippers, The (1996),5,459
+Mystery,Mike's Murder (1984),6,75
+Mystery,301, 302 (1995),7,26
+Mystery,Diamonds (1999),8,22
+Mystery,Moonlight Murder (1936),9,4
+Mystery|Romance|Thriller,Dead Again (1991),1,2248
+Mystery|Romance|Thriller,Spellbound (1945),2,806
+Mystery|Romance|Thriller,Boxing Helena (1993),3,393
+Mystery|Sci-Fi,2010 (1984),1,1606
+Mystery|Sci-Fi,Stalker (1979),2,189
+Mystery|Sci-Fi|Thriller,X-Files: Fight the Future, The (1998),1,3479
+Mystery|Thriller,Rear Window (1954),1,4700
+Mystery|Thriller,Vertigo (1958),2,3867
+Mystery|Thriller,Game, The (1997),3,3452
+Mystery|Thriller,Basic Instinct (1992),4,2660
+Mystery|Thriller,Third Man, The (1949),5,2137
+Mystery|Thriller,Dial M for Murder (1954),6,1546
+Mystery|Thriller,Perfect Murder, A (1998),7,1352
+Mystery|Thriller,Absolute Power (1997),8,1276
+Mystery|Thriller,Murder at 1600 (1997),9,850
+Mystery|Thriller,Gaslight (1944),10,766
+Romance,City of Angels (1998),1,1204
+Romance,Meet Joe Black (1998),2,1119
+Romance,Affair to Remember, An (1957),3,747
+Romance,Persuasion (1995),4,726
+Romance,Message in a Bottle (1999),5,482
+Romance,Against All Odds (1984),6,432
+Romance,Trick (1999),7,320
+Romance,Kama Sutra: A Tale of Love (1996),8,255
+Romance,Mrs. Dalloway (1997),9,216
+Romance,Walking and Talking (1996),10,210
+Romance|Thriller,Rebecca (1940),1,1623
+Romance|Thriller,Life Less Ordinary, A (1997),2,368
+Romance|Thriller,Passion of Mind (1999),3,77
+Romance|Thriller,B. Monkey (1998),4,66
+Romance|Thriller,Wisdom of Crocodiles, The (a.k.a. Immortality) (2000),5,44
+Romance|War,In Love and War (1996),1,201
+Romance|War,Farewell to Arms, A (1932),2,200
+Romance|War,Lucie Aubrac (1997),3,22
+Romance|War,For the Moment (1994),4,17
+Romance|Western,Big Country, The (1958),1,230
+Sci-Fi,Clockwork Orange, A (1971),1,5012
+Sci-Fi,Brazil (1985),2,3741
+Sci-Fi,Mission to Mars (2000),3,2058
+Sci-Fi,Metropolis (1926),4,1584
+Sci-Fi,Forbidden Planet (1956),5,1483
+Sci-Fi,Black Hole, The (1979),6,818
+Sci-Fi,Omega Man, The (1971),7,793
+Sci-Fi,Thing From Another World, The (1951),8,526
+Sci-Fi,It Came from Outer Space (1953),9,316
+Sci-Fi,Meteor (1979),10,310
+Sci-Fi|Thriller,Pi (1998),1,2324
+Sci-Fi|Thriller,Cell, The (2000),2,2146
+Sci-Fi|Thriller,Net, The (1995),3,1633
+Sci-Fi|Thriller,Soylent Green (1973),4,1485
+Sci-Fi|Thriller,Mimic (1997),5,1018
+Sci-Fi|Thriller,Stepford Wives, The (1975),6,992
+Sci-Fi|Thriller,Cube (1997),7,808
+Sci-Fi|Thriller,Astronaut's Wife, The (1999),8,801
+Sci-Fi|Thriller,Island of Dr. Moreau, The (1996),9,713
+Sci-Fi|Thriller,Virtuosity (1995),10,637
+Sci-Fi|Thriller|War,Them! (1954),1,963
+Sci-Fi|War,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),1,6083
+Thriller,Sixth Sense, The (1999),1,10835
+Thriller,Fatal Attraction (1987),2,2943
+Thriller,Nikita (La Femme Nikita) (1990),3,2936
+Thriller,Cape Fear (1991),4,2522
+Thriller,Arlington Road (1999),5,2222
+Thriller,Bone Collector, The (1999),6,2161
+Thriller,Dead Calm (1989),7,1828
+Thriller,Stir of Echoes (1999),8,1766
+Thriller,Marathon Man (1976),9,1572
+Thriller,What Lies Beneath (2000),10,1544
+War,All Quiet on the Western Front (1930),1,1124
+War,Run Silent, Run Deep (1958),2,880
+War,Tora! Tora! Tora! (1970),3,718
+War,Pork Chop Hill (1959),4,400
+War,Cross of Iron (1977),5,161
+War,Devil's Brigade, The (1968),6,145
+War,Underground (1995),7,128
+War,Stalingrad (1993),8,116
+War,Story of G.I. Joe, The (1945),9,77
+War,Prisoner of the Mountains (Kavkazsky Plennik) (1996),10,53
+Western,Unforgiven (1992),1,4078
+Western,Tombstone (1993),2,2142
+Western,High Noon (1952),3,1684
+Western,Outlaw Josey Wales, The (1976),4,1476
+Western,For a Few Dollars More (1965),5,1273
+Western,High Plains Drifter (1972),6,1231
+Western,Pale Rider (1985),7,1176
+Western,Wild Bunch, The (1969),8,1079
+Western,Searchers, The (1956),9,1001
+Western,Hang 'em High (1967),10,903

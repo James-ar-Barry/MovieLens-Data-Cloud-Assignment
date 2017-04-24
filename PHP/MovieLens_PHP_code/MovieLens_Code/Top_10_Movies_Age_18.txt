@@ -1,0 +1,10 @@
+American Beauty (1999),1,3233
+Star Wars: Episode V - The Empire Strikes Back (1980),2,2572
+Matrix, The (1999),3,2521
+Star Wars: Episode IV - A New Hope (1977),4,2488
+Star Wars: Episode VI - Return of the Jedi (1983),5,2451
+Braveheart (1995),6,2397
+Saving Private Ryan (1998),7,2328
+Sixth Sense, The (1999),8,2218
+Shawshank Redemption, The (1994),9,2169
+Princess Bride, The (1987),10,2168

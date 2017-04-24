@@ -1,0 +1,10 @@
+Action - Goldfinger (1964),1,3562
+Action - From Russia with Love (1963),2,2999
+Action - Shanghai Noon (2000),3,2891
+Action - Dr. No (1962),4,2503
+Action - Spy Who Loved Me, The (1977),5,1756
+Action - Man with the Golden Gun, The (1974),6,1673
+Action - Live and Let Die (1973),7,1516
+Action - Under Siege (1992),8,1507
+Action - Thunderball (1965),9,1497
+Action - For Your Eyes Only (1981),10,1488

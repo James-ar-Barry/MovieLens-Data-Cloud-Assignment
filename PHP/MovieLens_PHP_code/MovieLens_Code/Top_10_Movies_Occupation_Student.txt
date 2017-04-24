@@ -1,0 +1,10 @@
+Student - American Beauty (1999),1,2317
+Student - Star Wars: Episode V - The Empire Strikes Back (1980),2,1803
+Student - Star Wars: Episode IV - A New Hope (1977),3,1783
+Student - Matrix, The (1999),Student - 1776
+Student - Star Wars: Episode VI - Return of the Jedi (1983),5,1722
+Student - Saving Private Ryan (1998),6,1717
+Student - Braveheart (1995),7,1640
+Student - Sixth Sense, The (1999),8,1614
+Student - Shawshank Redemption, The (1994),9,1569
+Student - Silence of the Lambs, The (1991),10,1560
